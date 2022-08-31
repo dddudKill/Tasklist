@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // Write your code here. Do not import any libraries
+    val myFile = File(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9719#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:13:19: error: unresolved reference: myCases
+    val myFile = File(myCases.txt)
+                      ^
+  time: Wed, 31 Aug 2022 15:30:53 UTC
+record: -1

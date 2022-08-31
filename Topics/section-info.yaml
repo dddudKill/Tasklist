@@ -1,0 +1,20 @@
+content:
+- Member functions
+- Arrays
+- For loop and arrays
+- Property accessors
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- Nullable and non-nullable types
+- Null safety
+- Type system
+- The try-catch-finally statement
+- Secondary constructor
+- Inheritance
+- toString()
+- Data class
+- Kotlinx datetime library
+- Functions as objects
+- Lambda expressions
+- Writing files

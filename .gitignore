@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Tasklist/task/build/
+/Topics/For loop and arrays/Right Rotation/build/
+/Topics/Hierarchy of exceptions/Fix the code/build/
+/Topics/Lambda expressions/Polynomial/build/
+/Topics/Property accessors/Weather comparison/build/
+/Topics/Taming exceptions/Handle number format exception/build/
+/Topics/Taming exceptions/Handle string exception/build/
+/Topics/The try-catch-finally statement/Will it be printed/build/
+/Topics/Type system/Reverse me if you can/build/
